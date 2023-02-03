@@ -9,7 +9,7 @@ export default class View {
 
     this._data = data;
     const markup = this._generateMarkup();
-    this._clear;
+    this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
@@ -37,7 +37,7 @@ export default class View {
            <use href="${icons}#icon-alert-triangle"></use>
            </svg>
        </div>
-       <p>${message}</p>
+       <p class="error_text">${message}</p>
    </div>
    `;
     this._clear();
