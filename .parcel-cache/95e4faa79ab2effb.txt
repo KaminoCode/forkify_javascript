@@ -36,7 +36,7 @@
 105C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\yaml\types\binary.js133195927263290243 0
 131C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133195928322635699 0
 89C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\sass133197041790467841 1
-84C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\package.json133196145058717203 0
+84C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\package.json133198762476223919 0
 114C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\map\every.js133196006815354829 0
 120C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\svgo\lib\svgo\css-select-adapter.js133195927280868415 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\core\lib\PackagerRunner.js133195928322346009 0
@@ -69,7 +69,7 @@
 134C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133195928310761582 0
 115C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\number\epsilon.js133196006803039652 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\array\virtual\fill.js133196006816027333 0
-76C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist133198690816303211 1
+76C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist133198762534260700 1
 127C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\terser\node_modules\commander\CHANGELOG.md133195927291580596 0
 125C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\es.number.parse-float.js133196006805831526 0
 96C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\buffer-from133197041709405503 1
@@ -102,7 +102,7 @@
 125C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133197041784150070 1
 129C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\es.typed-array.find-index.js133196006809333516 0
 125C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\typed-array\index-of.js133196006827368672 0
-92C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\View.js133197864081378555 0
+92C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\View.js133198715472405744 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\es.map.constructor.js133196006805043087 0
 127C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\es.typed-array.index-of.js133196006809567015 0
 115C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\set\reduce.js133196006844570949 0
@@ -231,7 +231,7 @@
 124C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\packager-css\lib\CSSPackager.js133195928317318127 0
 103C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\micromatch\LICENSE133195927268858626 0
 116C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\regions\BA.js133195927288804741 0
-92C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\controller.js133198690189009011 0
+92C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\controller.js133198761596714269 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\core\lib\InternalConfig.js133195928322138269 0
 98C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\yaml\util.mjs133195927291334684 0
 115C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\math\index.js133196006829364562 0
@@ -264,7 +264,7 @@
 115C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\regexp\dot-all.js133196006801449753 0
 152C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133195928324136062 0
 108C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\configurator.js133196006797417677 0
-102C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\paginationView.js133198691266146958 0
+102C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\paginationView.js133198754046475754 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\object\from-entries.js133196006821584855 0
 99C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\dotenv\LICENSE133195927269702170 0
 98C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\color-convert133197041722663409 1
@@ -284,7 +284,7 @@
 117C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\@parcel\core\lib\ParcelConfig.js133195928322474233 0
 101C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\get-port\license133195927278543911 0
 124C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\es\array\virtual\copy-within.js133196006798465077 0
-99C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\resultsView.js133197871039170693 0
+99C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\src\js\views\resultsView.js133198692988656456 0
 126C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\blobbuilder.js133195927294942258 0
 97C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\yaml\browser133197041796623155 1
 131C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\css-mediaqueries.js133195927318994336 0
@@ -1090,7 +1090,7 @@
 131C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133195927357373475 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133195927270467281 0
 117C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\nth-check\lib\esm\index.d.ts.map133195927264255821 0
-94C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\logo.726d37a8.png133198690815750577 0
+94C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\logo.726d37a8.png133198761599515985 0
 123C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\svgo\plugins\convertEllipseToCircle.js133195927279071683 0
 118C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\string\trim-end.js133196006857401884 0
 121C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133195928309020133 0
@@ -1628,7 +1628,7 @@
 138C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\internals\array-method-has-species-support.js133196006792230371 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\svgo\plugins\moveGroupAttrsToElems.js133195927285483283 0
 113C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\msgpackr-extract\binding.gyp133195927258143455 0
-95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\icons.21bad73c.svg133198690816265890 0
+95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\icons.21bad73c.svg133198761599656960 0
 130C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\async-functions.js133195927281139845 0
 117C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\actual\array\flat-map.js133196006819301764 0
 105C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\domhandler\readme.md133195927260486824 0
@@ -2138,7 +2138,7 @@
 112C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\string\link.js133196006837013126 0
 110C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\parse-int.js133196006842568214 0
 128C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\full\typed-array\find-last-index.js133196006817767835 0
-87C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.html133198690816265890 0
+87C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.html133198761599631820 0
 120C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\postcss-value-parser\lib\index.d.ts133195927267984841 0
 118C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\postcss-value-parser\lib\parse.js133195927265290125 0
 127C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\console-time.js133195927304264443 0
@@ -3668,7 +3668,7 @@
 117C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\string\replace.js133196006845997796 0
 126C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\esnext.array.to-sorted.js133196006810683529 0
 115C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\string\split.js133196006851112613 0
-95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\icons.dfd7a6db.svg133198690816265890 0
+95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\icons.dfd7a6db.svg133198761599807410 0
 113C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\string\sub.js133196006852515037 0
 130C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\stable\number\virtual\to-precision.js133196006855022305 0
 127C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\modules\es.object.define-setter.js133196006806091522 0
@@ -5541,7 +5541,7 @@
 118C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\instance\find.js133196006818472545 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\instance\flat-map.js133196006819501438 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\instance\for-each.js133196006820858075 0
-98C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.e37f48ea.js.map133198690815644836 0
+98C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.e37f48ea.js.map133198762534151803 0
 129C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\instance\group-by-to-map.js133196006824849149 0
 118C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\u2f.js133195927329280654 0
 122C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\core-js\features\instance\index-of.js133196006827348625 0
@@ -6928,7 +6928,7 @@
 131C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\webkit-user-drag.js133195927330032546 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\webm.js133195927330042549 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\webp.js133195927330062540 0
-97C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\favicon.8b2f57bf.png133198690815558686 0
+97C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\favicon.8b2f57bf.png133198761599125599 0
 119C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\woff.js133195927330226953 0
 95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\braces\lib133197041709156938 1
 125C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\caniuse-lite\data\features\word-break.js133195927330256954 0
@@ -7812,6 +7812,6 @@
 96C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\.bin\semver133195927357373475 0
 100C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\.bin\terser.cmd133195927357387259 0
 100C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\node_modules\.bin\terser.ps1133195927357387259 0
-94C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.e37f48ea.js133198690815558686 0
-95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.f7626f62.css133198690815712547 0
-99C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.f7626f62.css.map133198690815826182 0
+94C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.e37f48ea.js133198762534047229 0
+95C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.f7626f62.css133198761599404130 0
+99C:\Users\kamin\azure_projects\javascript_dev\projects\forify_javascript\dist\index.f7626f62.css.map133198761599455992 0
