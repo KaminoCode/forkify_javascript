@@ -3,14 +3,47 @@ import icons from 'url:../../img/icons.svg'; // Parcel 2
 export default class View {
   _data;
 
-  render(data) {
+  render(data, render = true) {
     if (!data || (Array.isArray(data) && data.length === 0))
       return this.renderError();
 
     this._data = data;
     const markup = this._generateMarkup();
+
+    if (!render) return markup;
+
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+  update(data) {
+    this._data = data;
+    const newMarkup = this._generateMarkup();
+
+    // convert 'newMarup' string into a DOM object that lives in memory
+    const newDOM = document.createRange().createContextualFragment(newMarkup);
+    // select all the elements on the new DOM
+    const newElements = Array.from(newDOM.querySelectorAll('*'));
+    // select all the current elements in the current DOM
+    const curElements = Array.from(this._parentElement.querySelectorAll('*'));
+
+    // loop over the 'newElements' array to compare each element with the
+    // curElement at the same index
+    newElements.forEach((newEl, i) => {
+      const curEl = curElements[i];
+      // UPDATES CHANGED TEXT
+      if (
+        !newEl.isEqualNode(curEl) &&
+        newEl.firstChild?.nodeValue.trim() !== ''
+      ) {
+        curEl.textContent = newEl.textContent;
+      }
+      // UPDATES CHANGED ATTRIBUTES
+      if (!newEl.isEqualNode(curEl))
+        Array.from(newEl.attributes).forEach(attr =>
+          curEl.setAttribute(attr.name, attr.value)
+        );
+    });
   }
 
   _clear() {
